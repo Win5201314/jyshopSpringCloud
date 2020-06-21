@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jyShop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-gateway/jyShop-gateway-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-address/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-baseUserInfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-mainPage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-shopCar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-service/jyShop-service-wxPay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-address-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-baseUserInfo-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-mainPage-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-order-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-shopCar-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jyShop-sevice-api/jyShop-service-wxPay-api/src/main/java" charset="UTF-8" />
+  </component>
+</project>

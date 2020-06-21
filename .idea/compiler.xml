@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jyShop-service-address-api" />
+        <module name="jyShop-gateway-web" />
+        <module name="jyShop-common-db" />
+        <module name="jyShop-service-order-api" />
+        <module name="jyShop-service-baseUserInfo" />
+        <module name="jyShop-service-shopCar" />
+        <module name="jyShop-service-order" />
+        <module name="jyShop-service-mainPage-api" />
+        <module name="jyShop-service-baseUserInfo-api" />
+        <module name="jyShop-service-shopCar-api" />
+        <module name="jyShop-hystrix" />
+        <module name="jyShop-service-wxPay-api" />
+        <module name="jyShop-service-mainPage" />
+        <module name="jyShop-service-wxPay" />
+        <module name="jyShop-service-address" />
+        <module name="jyShop-eureka-server" />
+        <module name="jyShop-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jyShop-common" options="-parameters" />
+      <module name="jyShop-common-db" options="-parameters" />
+      <module name="jyShop-eureka-server" options="-parameters" />
+      <module name="jyShop-gateway" options="" />
+      <module name="jyShop-gateway-web" options="-parameters" />
+      <module name="jyShop-hystrix" options="-parameters" />
+      <module name="jyShop-service" options="" />
+      <module name="jyShop-service-address" options="-parameters" />
+      <module name="jyShop-service-address-api" options="-parameters" />
+      <module name="jyShop-service-baseUserInfo" options="-parameters" />
+      <module name="jyShop-service-baseUserInfo-api" options="-parameters" />
+      <module name="jyShop-service-mainPage" options="-parameters" />
+      <module name="jyShop-service-mainPage-api" options="-parameters" />
+      <module name="jyShop-service-order" options="-parameters" />
+      <module name="jyShop-service-order-api" options="-parameters" />
+      <module name="jyShop-service-shopCar" options="-parameters" />
+      <module name="jyShop-service-shopCar-api" options="-parameters" />
+      <module name="jyShop-service-wxPay" options="-parameters" />
+      <module name="jyShop-service-wxPay-api" options="-parameters" />
+      <module name="jyShop-sevice-api" options="" />
+      <module name="jyShop-web" options="" />
+    </option>
+  </component>
+</project>
